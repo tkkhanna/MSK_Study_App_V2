@@ -1,0 +1,407 @@
+Spinal accessory nerve (CN XI); Superficial extrinsic back muscle; movement:Elevate and laterally rotate scapula; muscle:Trapezius (descending fibers); filter.region:Upper Body; filter.joint:Scapula; filter.action:Rotation
+
+Spinal accessory nerve (CN XI); Superficial extrinsic back muscle; movement:Retract and laterally rotate scapula; muscle:Trapezius (middle fibers); filter.region:Upper Body; filter.joint:Scapula; filter.action:Rotation
+
+Spinal accessory nerve (CN XI); Superficial extrinsic back muscle; movement:Depress and laterally rotate scapula; muscle:Trapezius (ascending fibers); filter.region:Upper Body; filter.joint:Scapula; filter.action:Rotation
+
+Thoracodorsal nerve; Superficial extrinsic back muscle; movement:Extend, adduct, and medially rotate humerus; muscle:Latissimus dorsi; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Extension
+
+Dorsal scapular nerve; Superficial extrinsic back muscle; movement:Elevate and medially rotate scapula; muscle:Levator scapulae; filter.region:Upper Body; filter.joint:Scapula; filter.action:Rotation
+
+Dorsal scapular nerve; Superficial extrinsic back muscle; movement:Retract and medially rotate scapula; muscle:Rhomboid major; filter.region:Upper Body; filter.joint:Scapula; filter.action:Rotation
+
+Dorsal scapular nerve; Superficial extrinsic back muscle; movement:Retract and medially rotate scapula; muscle:Rhomboid minor; filter.region:Upper Body; filter.joint:Scapula; filter.action:Rotation
+
+
+
+Intercostal nerves (anterior rami of spinal nerves); Intermediate back muscle; movement:Elevate ribs 2-5 during respiration; muscle:Serratus posterior superior; filter.region:Core / Back; filter.joint:Unclassified; filter.action:Elevation
+
+Intercostal nerves (anterior rami of spinal nerves); Intermediate back muscle; movement:Depress ribs 9-12 during respiration; muscle:Serratus posterior inferior; filter.region:Core / Back; filter.joint:Unclassified; filter.action:Depression
+
+
+
+Posterior rami of spinal nerves; Deep intrinsic back muscle; movement:Acting bilaterally to extend head and neck, acting unilaterally to laterally flex neck and ipsilaterally rotate head; muscle:Splenius capitis; filter.region:Core / Back; filter.joint:Spine / Neck; filter.action:Flexion,Extension,Rotation
+
+Posterior rami of spinal nerves; Deep intrinsic back muscle; movement:Acting bilaterally to extend head and neck, acting unilaterally to laterally flex neck and ipsilaterally rotate head; muscle:Splenius cervicis; filter.region:Core / Back; filter.joint:Spine / Neck; filter.action:Flexion,Extension,Rotation
+
+Posterior rami of spinal nerves; Deep intrinsic back muscle; movement:Acting bilaterally to extend vertebral column and head, acting unilaterally to laterally flex trunk; muscle:Iliocostalis; filter.region:Core / Back; filter.joint:Spine / Neck; filter.action:Flexion,Extension
+
+Posterior rami of spinal nerves; Deep intrinsic back muscle; movement:Acting bilaterally to extend vertebral column and head, acting unilaterally to laterally flex trunk; muscle:Longissimus; filter.region:Core / Back; filter.joint:Spine / Neck; filter.action:Flexion,Extension
+
+Posterior rami of spinal nerves; Deep intrinsic back muscle; movement:Acting bilaterally to extend vertebral column and head, acting unilaterally to laterally flex trunk; muscle:Spinalis; filter.region:Core / Back; filter.joint:Spine / Neck; filter.action:Flexion,Extension
+
+Posterior rami of spinal nerves; Deep intrinsic back muscle; movement:Acting bilaterally to extend cervical and thoracic vertebral regions, acting unilaterally to contralaterally rotate cervical and thoracic vertebral regions; muscle:Semispinalis capitis; filter.region:Core / Back; filter.joint:Spine / Neck; filter.action:Extension,Rotation
+
+Posterior rami of spinal nerves; Deep intrinsic back muscle; movement:Acting bilaterally to extend cervical and thoracic vertebral regions, acting unilaterally to contralaterally rotate cervical and thoracic vertebral regions; muscle:Semispinalis cervicis; filter.region:Core / Back; filter.joint:Spine / Neck; filter.action:Extension,Rotation
+
+Posterior rami of spinal nerves; Deep intrinsic back muscle; movement:Stabilize vertebrae and local movement; muscle:Multifidus; filter.region:Core / Back; filter.joint:Spine / Neck; filter.action:Other
+
+Posterior rami of spinal nerves; Deep intrinsic back muscle; movement:Stabilize vertebrae; muscle:Rotatores; filter.region:Core / Back; filter.joint:Spine / Neck; filter.action:Other
+
+
+
+Axillary nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder flexion; muscle:Deltoid (clavicular part); filter.region:Upper Body; filter.joint:Shoulder; filter.action:Flexion
+
+Medial and lateral pectoral nerves; Movement at glenohumeral/shoulder joint, extrinsic muscle; movement:Shoulder flexion; muscle:Pectoralis major (clavicular and sternocostal parts); filter.region:Upper Body; filter.joint:Shoulder; filter.action:Flexion
+
+Musculocutaneous nerve; Movement at glenohumeral/shoulder joint, extrinsic muscle; movement:Shoulder flexion; muscle:Coracobrachialis; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Flexion
+
+Musculocutaneous nerve; Movement at glenohumeral/shoulder joint, extrinsic muscle; movement:Shoulder flexion; muscle:Biceps brachii (short head); filter.region:Upper Body; filter.joint:Shoulder; filter.action:Flexion
+
+Axillary nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder extension; muscle:Deltoid (spinal part); filter.region:Upper Body; filter.joint:Shoulder; filter.action:Extension
+
+Thoracodorsal nerve; Movement at glenohumeral/shoulder joint, extrinsic muscle; movement:Shoulder extension; muscle:Latissimus dorsi; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Extension
+
+Lower subscapular nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder extension; muscle:Teres major; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Extension
+
+Radial nerve; Movement at glenohumeral/shoulder joint, extrinsic muscle; movement:Shoulder extension; muscle:Triceps brachii (long head); filter.region:Upper Body; filter.joint:Shoulder; filter.action:Extension
+
+Axillary nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder abduction; muscle:Deltoid (acromial part); filter.region:Upper Body; filter.joint:Shoulder; filter.action:Abduction
+
+Suprascapular nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle, first 15 degrees; movement:Shoulder abduction; muscle:Supraspinatus; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Abduction
+
+Axillary nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder adduction; muscle:Deltoid (clavicular and spinal parts); filter.region:Upper Body; filter.joint:Shoulder; filter.action:Adduction
+
+Medial and lateral pectoral nerves; Movement at glenohumeral/shoulder joint, extrinsic muscle; movement:Shoulder adduction; muscle:Pectoralis major; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Adduction
+
+Thoracodorsal nerve; Movement at glenohumeral/shoulder joint, extrinsic muscle; movement:Shoulder adduction; muscle:Latissimus dorsi; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Adduction
+
+Lower subscapular nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder adduction; muscle:Teres major; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Adduction
+
+Radial nerve; Movement at glenohumeral/shoulder joint, extrinsic muscle; movement:Shoulder adduction; muscle:Triceps brachii (long head); filter.region:Upper Body; filter.joint:Shoulder; filter.action:Adduction
+
+Axillary nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder internal rotation; muscle:Deltoid (clavicular and spinal parts); filter.region:Upper Body; filter.joint:Shoulder; filter.action:Rotation
+
+Medial and lateral pectoral nerves; Movement at glenohumeral/shoulder joint, extrinsic muscle; movement:Shoulder internal rotation; muscle:Pectoralis major (clavicular part); filter.region:Upper Body; filter.joint:Shoulder; filter.action:Rotation
+
+Thoracodorsal nerve; Movement at glenohumeral/shoulder joint, extrinsic muscle; movement:Shoulder internal rotation; muscle:Latissimus dorsi; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Rotation
+
+Lower subscapular nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder internal rotation; muscle:Teres major; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Rotation
+
+Upper and lower subscapular nerves; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder internal rotation; muscle:Subscapularis; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Rotation
+
+Axillary nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder external rotation; muscle:Deltoid (spinal part); filter.region:Upper Body; filter.joint:Shoulder; filter.action:Rotation
+
+Suprascapular nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder external rotation; muscle:Infraspinatus; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Rotation
+
+Axillary nerve; Movement at glenohumeral/shoulder joint, intrinsic muscle; movement:Shoulder external rotation; muscle:Teres minor; filter.region:Upper Body; filter.joint:Shoulder; filter.action:Rotation
+
+
+
+Spinal accessory nerve (CN XI); Movement at scapulothoracic joints; movement:Scapular elevation; muscle:Trapezius (descending part); filter.region:Upper Body; filter.joint:Scapula; filter.action:Elevation
+
+Dorsal scapular nerve; Movement at scapulothoracic joints; movement:Scapular elevation; muscle:Levator scapulae; filter.region:Upper Body; filter.joint:Scapula; filter.action:Elevation
+
+Medial pectoral nerve; Movement at scapulothoracic joints; movement:Scapular depression; muscle:Pectoralis minor; filter.region:Upper Body; filter.joint:Scapula; filter.action:Depression
+
+Spinal accessory nerve (CN XI); Movement at scapulothoracic joints; movement:Scapular depression; muscle:Trapezius (ascending part); filter.region:Upper Body; filter.joint:Scapula; filter.action:Depression
+
+Medial pectoral nerve; Movement at scapulothoracic joints; movement:Scapular protraction; muscle:Pectoralis minor; filter.region:Upper Body; filter.joint:Scapula; filter.action:Other
+
+Long thoracic nerve; Movement at scapulothoracic joints; movement:Scapular protraction; muscle:Serratus anterior; filter.region:Upper Body; filter.joint:Scapula; filter.action:Other
+
+Spinal accessory nerve (CN XI); Movement at scapulothoracic joints; movement:Scapular retraction; muscle:Trapezius (transverse part); filter.region:Upper Body; filter.joint:Scapula; filter.action:Other
+
+Dorsal scapular nerve; Movement at scapulothoracic joints; movement:Scapular retraction; muscle:Rhomboid major; filter.region:Upper Body; filter.joint:Scapula; filter.action:Other
+
+Dorsal scapular nerve; Movement at scapulothoracic joints; movement:Scapular retraction; muscle:Rhomboid minor; filter.region:Upper Body; filter.joint:Scapula; filter.action:Other
+
+Long thoracic nerve; Movement at scapulothoracic joints; movement:Scapular lateral upward rotation; muscle:Serratus anterior (inferior part); filter.region:Upper Body; filter.joint:Scapula; filter.action:Rotation
+
+Spinal accessory nerve (CN XI); Movement at scapulothoracic joints; movement:Scapular lateral upward rotation; muscle:Trapezius (descending part); filter.region:Upper Body; filter.joint:Scapula; filter.action:Rotation
+
+Dorsal scapular nerve; Movement at scapulothoracic joints; movement:Scapular medial downward rotation; muscle:Levator scapulae; filter.region:Upper Body; filter.joint:Scapula; filter.action:Rotation
+
+Dorsal scapular nerve; Movement at scapulothoracic joints; movement:Scapular medial downward rotation; muscle:Rhomboid major; filter.region:Upper Body; filter.joint:Scapula; filter.action:Rotation
+
+Dorsal scapular nerve; Movement at scapulothoracic joints; movement:Scapular medial downward rotation; muscle:Rhomboid minor; filter.region:Upper Body; filter.joint:Scapula; filter.action:Rotation
+
+
+
+Musculocutaneous nerve; Movement at elbow joints, humeroulnar and humeroradial joints; movement:Elbow flexion; muscle:Brachialis; filter.region:Upper Body; filter.joint:Elbow; filter.action:Flexion
+
+Musculocutaneous nerve; Movement at elbow joints, humeroulnar and humeroradial joints, when supinated; movement:Elbow flexion; muscle:Biceps brachii; filter.region:Upper Body; filter.joint:Elbow; filter.action:Flexion
+
+Radial nerve; Movement at elbow joints, humeroulnar and humeroradial joints, when partially pronated; movement:Elbow flexion; muscle:Brachioradialis; filter.region:Upper Body; filter.joint:Elbow; filter.action:Flexion
+
+Radial nerve; Movement at elbow joints, humeroulnar and humeroradial joints; movement:Elbow extension; muscle:Triceps brachii; filter.region:Upper Body; filter.joint:Elbow; filter.action:Extension
+
+Radial nerve; Movement at elbow joints, humeroulnar and humeroradial joints; movement:Elbow extension; muscle:Anconeus; filter.region:Upper Body; filter.joint:Elbow; filter.action:Extension
+
+Musculocutaneous nerve; Movement at radioulnar joints; movement:Forearm supination; muscle:Biceps brachii; filter.region:Upper Body; filter.joint:Elbow; filter.action:Rotation
+
+Radial nerve (deep branch); Movement at radioulnar joints; movement:Forearm supination; muscle:Supinator; filter.region:Upper Body; filter.joint:Elbow; filter.action:Rotation
+
+Median nerve; Movement at radioulnar joints; movement:Forearm pronation; muscle:Pronator teres; filter.region:Upper Body; filter.joint:Elbow; filter.action:Rotation
+
+Median nerve (AIN); Movement at radioulnar joints; movement:Forearm pronation; muscle:Pronator quadratus; filter.region:Upper Body; filter.joint:Elbow; filter.action:Rotation
+
+
+
+Median nerve; Movement at wrist joints, anterior forearm compartment; movement:Wrist flexion; muscle:Flexor carpi radialis; filter.region:Upper Body; filter.joint:Wrist; filter.action:Flexion
+
+Ulnar nerve; Movement at wrist joints, anterior forearm compartment; movement:Wrist flexion; muscle:Flexor carpi ulnaris; filter.region:Upper Body; filter.joint:Wrist; filter.action:Flexion
+
+Median nerve; Movement at wrist joints, anterior forearm compartment; movement:Wrist flexion; muscle:Palmaris longus; filter.region:Upper Body; filter.joint:Wrist; filter.action:Flexion
+
+Median nerve; Movement at wrist joints, anterior forearm compartment; movement:Wrist flexion; muscle:Flexor digitorum superficialis; filter.region:Upper Body; filter.joint:Wrist; filter.action:Flexion
+
+Median nerve (AIN) and ulnar nerve; Movement at wrist joints, anterior forearm compartment; movement:Wrist flexion; muscle:Flexor digitorum profundus; filter.region:Upper Body; filter.joint:Wrist; filter.action:Flexion
+
+Radial nerve; Movement at wrist joints, posterior forearm compartment; movement:Wrist extension; muscle:Extensor carpi radialis longus; filter.region:Upper Body; filter.joint:Wrist; filter.action:Extension
+
+Radial nerve (deep branch); Movement at wrist joints, posterior forearm compartment; movement:Wrist extension; muscle:Extensor carpi radialis brevis; filter.region:Upper Body; filter.joint:Wrist; filter.action:Extension
+
+Radial nerve (deep branch/PIN); Movement at wrist joints, posterior forearm compartment; movement:Wrist extension; muscle:Extensor carpi ulnaris; filter.region:Upper Body; filter.joint:Wrist; filter.action:Extension
+
+Radial nerve (PIN); Movement at wrist joints, posterior forearm compartment; movement:Wrist extension; muscle:Extensor digitorum; filter.region:Upper Body; filter.joint:Wrist; filter.action:Extension
+
+Median nerve; Movement at wrist joints, anterior forearm compartment; movement:Wrist abduction (radial deviation); muscle:Flexor carpi radialis; filter.region:Upper Body; filter.joint:Wrist; filter.action:Abduction
+
+Radial nerve; Movement at wrist joints, posterior forearm compartment; movement:Wrist abduction (radial deviation); muscle:Extensor carpi radialis longus; filter.region:Upper Body; filter.joint:Wrist; filter.action:Abduction
+
+Radial nerve (deep branch); Movement at wrist joints, posterior forearm compartment; movement:Wrist abduction (radial deviation); muscle:Extensor carpi radialis brevis; filter.region:Upper Body; filter.joint:Wrist; filter.action:Abduction
+
+Ulnar nerve; Movement at wrist joints, anterior forearm compartment; movement:Wrist adduction (ulnar deviation); muscle:Flexor carpi ulnaris; filter.region:Upper Body; filter.joint:Wrist; filter.action:Adduction
+
+Radial nerve (deep branch/PIN); Movement at wrist joints, posterior forearm compartment; movement:Wrist adduction (ulnar deviation); muscle:Extensor carpi ulnaris; filter.region:Upper Body; filter.joint:Wrist; filter.action:Adduction
+
+
+
+
+
+Median nerve (palmar digital branch); Movement of digits 2-5, intrinsic hand muscle; movement:MCP flexion of digits 2 and 3; muscle:Lumbricals; filter.region:Upper Body; filter.joint:Hand; filter.action:Flexion
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle; movement:MCP flexion of digits 4 and 5; muscle:Lumbricals; filter.region:Upper Body; filter.joint:Hand; filter.action:Flexion
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle, assist; movement:MCP flexion; muscle:Palmar interossei; filter.region:Upper Body; filter.joint:Hand; filter.action:Flexion
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle, assist; movement:MCP flexion; muscle:Dorsal interossei; filter.region:Upper Body; filter.joint:Hand; filter.action:Flexion
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle, 5th digit only; movement:MCP flexion; muscle:Flexor digiti minimi; filter.region:Upper Body; filter.joint:Hand; filter.action:Flexion
+
+Radial nerve (PIN); Movement of digits 2-5, extrinsic hand muscle, digits 2-5; movement:MCP extension; muscle:Extensor digitorum; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Radial nerve (PIN); Movement of digits 2-5, extrinsic hand muscle, 2nd digit only; movement:MCP extension; muscle:Extensor indicis; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Radial nerve (PIN); Movement of digits 2-5, extrinsic hand muscle, 5th digit only; movement:MCP extension; muscle:Extensor digiti minimi; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle; movement:Finger abduction; muscle:Dorsal interossei; filter.region:Upper Body; filter.joint:Hand; filter.action:Abduction
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle, 5th digit only; movement:5th finger abduction; muscle:Abductor digiti minimi; filter.region:Upper Body; filter.joint:Hand; filter.action:Abduction
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle, digits 2, 4, and 5 only; movement:Finger adduction (digits 2, 4, and 5); muscle:Palmar interossei; filter.region:Upper Body; filter.joint:Hand; filter.action:Adduction
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle, 5th digit only; movement:5th finger opposition; muscle:Opponens digiti minimi; filter.region:Upper Body; filter.joint:Hand; filter.action:Other
+
+Median nerve; Movement of digits 2-5, extrinsic hand muscle; movement:PIP flexion; muscle:Flexor digitorum superficialis; filter.region:Upper Body; filter.joint:Hand; filter.action:Flexion
+
+Median nerve (palmar digital branch); Movement of digits 2-5, intrinsic hand muscle; movement:PIP extension of digits 2 and 3; muscle:Lumbricals; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle; movement:PIP extension of digits 4 and 5; muscle:Lumbricals; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle, assist; movement:PIP extension; muscle:Palmar interossei; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle, assist; movement:PIP extension; muscle:Dorsal interossei; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Radial nerve (PIN); Movement of digits 2-5, extrinsic hand muscle, digits 2-5; movement:PIP extension; muscle:Extensor digitorum; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Median nerve (AIN); Movement of digits 2-5, extrinsic hand muscle; movement:DIP flexion of digits 2 and 3; muscle:Flexor digitorum profundus; filter.region:Upper Body; filter.joint:Hand; filter.action:Flexion
+
+Ulnar nerve (deep branch); Movement of digits 2-5, extrinsic hand muscle; movement:DIP flexion of digits 4 and 5; muscle:Flexor digitorum profundus; filter.region:Upper Body; filter.joint:Hand; filter.action:Flexion
+
+Median nerve (palmar digital branch); Movement of digits 2-5, intrinsic hand muscle; movement:DIP extension 2 and 3; muscle:Lumbricals; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle; movement:DIP extension 4 and 5; muscle:Lumbricals; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle, assist; movement:DIP extension; muscle:Palmar interossei; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Ulnar nerve (deep branch); Movement of digits 2-5, intrinsic hand muscle, assist; movement:DIP extension; muscle:Dorsal interossei; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Radial nerve (PIN); Movement of digits 2-5, extrinsic hand muscle, digits 2-5; movement:DIP extension; muscle:Extensor digitorum; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+
+
+Radial nerve (PIN); Movement of thumb, extrinsic hand muscle, IP joint; movement:Thumb IP joint extension; muscle:Extensor pollicis longus; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Radial nerve (PIN); Movement of thumb, extrinsic hand muscle, MCP joint; movement:Thumb MCP joint extension; muscle:Extensor pollicis brevis; filter.region:Upper Body; filter.joint:Hand; filter.action:Extension
+
+Median nerve (AIN); Movement of thumb, extrinsic hand muscle, IP joint; movement:Thumb IP joint flexion; muscle:Flexor pollicis longus; filter.region:Upper Body; filter.joint:Hand; filter.action:Flexion
+
+Median nerve (recurrent branch); Movement of thumb, intrinsic hand muscle, MCP joint superficial head; movement:Thumb MCP joint flexion; muscle:Flexor pollicis brevis; filter.region:Upper Body; filter.joint:Hand; filter.action:Flexion
+
+Ulnar nerve (deep branch); Movement of thumb, intrinsic hand muscle, MCP joint deep head; movement:Thumb MCP joint flexion; muscle:Flexor pollicis brevis; filter.region:Upper Body; filter.joint:Hand; filter.action:Flexion
+
+Radial nerve (PIN); Movement of thumb, extrinsic hand muscle; movement:Thumb abduction; muscle:Abductor pollicis longus; filter.region:Upper Body; filter.joint:Hand; filter.action:Abduction
+
+Median nerve (recurrent branch); Movement of thumb, intrinsic hand muscle; movement:Thumb abduction; muscle:Abductor pollicis brevis; filter.region:Upper Body; filter.joint:Hand; filter.action:Abduction
+
+Ulnar nerve (deep branch); Movement of thumb, intrinsic hand muscle; movement:Thumb adduction; muscle:Adductor pollicis; filter.region:Upper Body; filter.joint:Hand; filter.action:Adduction
+
+Median nerve (recurrent branch); Movement of thumb, intrinsic hand muscle; movement:Thumb opposition; muscle:Opponens pollicis; filter.region:Upper Body; filter.joint:Hand; filter.action:Other
+
+
+
+Superior gluteal nerve; Movement of hip, frontal plane; movement:Hip abduction; muscle:Gluteus medius; filter.region:Lower Body; filter.joint:Hip; filter.action:Abduction
+
+Superior gluteal nerve; Movement of hip, frontal plane; movement:Hip abduction; muscle:Gluteus minimus; filter.region:Lower Body; filter.joint:Hip; filter.action:Abduction
+
+Superior gluteal nerve; Movement of hip, frontal plane; movement:Hip abduction; muscle:Tensor fasciae latae; filter.region:Lower Body; filter.joint:Hip; filter.action:Abduction
+
+Obturator nerve; Movement of hip, frontal plane; movement:Hip adduction; muscle:Adductor magnus; filter.region:Lower Body; filter.joint:Hip; filter.action:Adduction
+
+Obturator nerve; Movement of hip, frontal plane; movement:Hip adduction; muscle:Adductor longus; filter.region:Lower Body; filter.joint:Hip; filter.action:Adduction
+
+Obturator nerve; Movement of hip, frontal plane; movement:Hip adduction; muscle:Adductor brevis; filter.region:Lower Body; filter.joint:Hip; filter.action:Adduction
+
+Obturator nerve; Movement of hip, frontal plane; movement:Hip adduction; muscle:Obturator externus; filter.region:Lower Body; filter.joint:Hip; filter.action:Adduction
+
+Obturator nerve; Movement of hip, frontal plane; movement:Hip adduction; muscle:Gracilis; filter.region:Lower Body; filter.joint:Hip; filter.action:Adduction
+
+Femoral nerve (with contributions from obturator nerve); Movement of hip, frontal plane; movement:Hip adduction; muscle:Pectineus; filter.region:Lower Body; filter.joint:Hip; filter.action:Adduction
+
+
+
+Femoral nerve; Movement of hip, sagittal plane; movement:Hip flexion; muscle:Iliacus; filter.region:Lower Body; filter.joint:Hip; filter.action:Flexion
+
+Anterior rami of lumbar nerves (L1-L3); Movement of hip, sagittal plane; movement:Hip flexion; muscle:Psoas major; filter.region:Lower Body; filter.joint:Hip; filter.action:Flexion
+
+Femoral nerve; Movement of hip, sagittal plane; movement:Hip flexion; muscle:Rectus femoris; filter.region:Lower Body; filter.joint:Hip; filter.action:Flexion
+
+Femoral nerve; Movement of hip, sagittal plane; movement:Hip flexion; muscle:Sartorius; filter.region:Lower Body; filter.joint:Hip; filter.action:Flexion
+
+Femoral nerve (with contributions from obturator nerve); Movement of hip, sagittal plane; movement:Hip flexion; muscle:Pectineus; filter.region:Lower Body; filter.joint:Hip; filter.action:Flexion
+
+Obturator nerve; Movement of hip, sagittal plane; movement:Hip flexion; muscle:Adductor magnus (adductor part); filter.region:Lower Body; filter.joint:Hip; filter.action:Flexion
+
+Obturator nerve; Movement of hip, sagittal plane; movement:Hip flexion; muscle:Adductor brevis; filter.region:Lower Body; filter.joint:Hip; filter.action:Flexion
+
+Inferior gluteal nerve; Movement of hip, sagittal plane; movement:Hip extension; muscle:Gluteus maximus; filter.region:Lower Body; filter.joint:Hip; filter.action:Extension
+
+Tibial division of sciatic nerve; Movement of hip, sagittal plane; movement:Hip extension; muscle:Semitendinosus; filter.region:Lower Body; filter.joint:Hip; filter.action:Extension
+
+Tibial division of sciatic nerve; Movement of hip, sagittal plane; movement:Hip extension; muscle:Semimembranosus; filter.region:Lower Body; filter.joint:Hip; filter.action:Extension
+
+Tibial division of sciatic nerve; Movement of hip, sagittal plane; movement:Hip extension; muscle:Long head of biceps femoris; filter.region:Lower Body; filter.joint:Hip; filter.action:Extension
+
+Tibial division of sciatic nerve; Movement of hip, sagittal plane; movement:Hip extension; muscle:Adductor magnus (hamstring part); filter.region:Lower Body; filter.joint:Hip; filter.action:Extension
+
+
+
+Superior gluteal nerve; Movement of hip, horizontal plane; movement:Internal (medial) rotation; muscle:Gluteus medius; filter.region:Lower Body; filter.joint:Hip; filter.action:Rotation
+
+Superior gluteal nerve; Movement of hip, horizontal plane; movement:Internal (medial) rotation; muscle:Gluteus minimus; filter.region:Lower Body; filter.joint:Hip; filter.action:Rotation
+
+Superior gluteal nerve; Movement of hip, horizontal plane; movement:Internal (medial) rotation; muscle:Tensor fasciae latae; filter.region:Lower Body; filter.joint:Hip; filter.action:Rotation
+
+Inferior gluteal nerve; Movement of hip, horizontal plane; movement:External (lateral) rotation; muscle:Gluteus maximus; filter.region:Lower Body; filter.joint:Hip; filter.action:Rotation
+
+Nerve to piriformis; Movement of hip, horizontal plane; movement:External (lateral) rotation; muscle:Piriformis; filter.region:Lower Body; filter.joint:Hip; filter.action:Rotation
+
+Nerve to obturator internus; Movement of hip, horizontal plane; movement:External (lateral) rotation; muscle:Superior gemellus; filter.region:Lower Body; filter.joint:Hip; filter.action:Rotation
+
+Nerve to obturator internus; Movement of hip, horizontal plane; movement:External (lateral) rotation; muscle:Obturator internus; filter.region:Lower Body; filter.joint:Hip; filter.action:Rotation
+
+Nerve to quadratus femoris; Movement of hip, horizontal plane; movement:External (lateral) rotation; muscle:Inferior gemellus; filter.region:Lower Body; filter.joint:Hip; filter.action:Rotation
+
+Nerve to quadratus femoris; Movement of hip, horizontal plane; movement:External (lateral) rotation; muscle:Quadratus femoris; filter.region:Lower Body; filter.joint:Hip; filter.action:Rotation
+
+Obturator nerve; Movement of hip, horizontal plane; movement:External (lateral) rotation; muscle:Obturator externus; filter.region:Lower Body; filter.joint:Hip; filter.action:Rotation
+
+Femoral nerve; Movement of hip, horizontal plane; movement:External (lateral) rotation; muscle:Sartorius; filter.region:Lower Body; filter.joint:Hip; filter.action:Rotation
+
+
+
+Tibial division of sciatic nerve; Movement at knee joint; movement:Knee flexion; muscle:Semitendinosus; filter.region:Lower Body; filter.joint:Knee; filter.action:Flexion
+
+Tibial division of sciatic nerve; Movement at knee joint; movement:Knee flexion; muscle:Semimembranosus; filter.region:Lower Body; filter.joint:Knee; filter.action:Flexion
+
+Long head: tibial division of sciatic nerve; Short head: common fibular division of sciatic nerve; Movement at knee joint; movement:Knee flexion; muscle:Biceps femoris; filter.region:Lower Body; filter.joint:Knee; filter.action:Flexion
+
+Femoral nerve; Movement at knee joint, assists; movement:Knee flexion; muscle:Sartorius; filter.region:Lower Body; filter.joint:Knee; filter.action:Flexion
+
+Obturator nerve; Movement at knee joint, assists; movement:Knee flexion; muscle:Gracilis; filter.region:Lower Body; filter.joint:Knee; filter.action:Flexion
+
+Tibial nerve; Movement at knee joint, assists; movement:Knee flexion; muscle:Gastrocnemius; filter.region:Lower Body; filter.joint:Knee; filter.action:Flexion
+
+Femoral nerve; Movement at knee joint; movement:Knee extension; muscle:Rectus femoris; filter.region:Lower Body; filter.joint:Knee; filter.action:Extension
+
+Femoral nerve; Movement at knee joint; movement:Knee extension; muscle:Vastus lateralis; filter.region:Lower Body; filter.joint:Knee; filter.action:Extension
+
+Femoral nerve; Movement at knee joint; movement:Knee extension; muscle:Vastus intermedius; filter.region:Lower Body; filter.joint:Knee; filter.action:Extension
+
+
+
+Tibial nerve; Movement at ankle (talocrural) joint; movement:Plantar flexion; muscle:Gastrocnemius; filter.region:Lower Body; filter.joint:Ankle; filter.action:Flexion
+
+Tibial nerve; Movement at ankle (talocrural) joint; movement:Plantar flexion; muscle:Soleus; filter.region:Lower Body; filter.joint:Ankle; filter.action:Flexion
+
+Tibial nerve; Movement at ankle (talocrural) joint; movement:Plantar flexion; muscle:Tibialis posterior; filter.region:Lower Body; filter.joint:Ankle; filter.action:Flexion
+
+Tibial nerve; Movement at ankle (talocrural) joint; movement:Plantar flexion; muscle:Flexor digitorum longus; filter.region:Lower Body; filter.joint:Ankle; filter.action:Flexion
+
+Tibial nerve; Movement at ankle (talocrural) joint; movement:Plantar flexion; muscle:Flexor hallucis longus; filter.region:Lower Body; filter.joint:Ankle; filter.action:Flexion
+
+Superficial fibular nerve; Movement at ankle (talocrural) joint, assists; movement:Plantar flexion; muscle:Fibularis longus; filter.region:Lower Body; filter.joint:Ankle; filter.action:Flexion
+
+Superficial fibular nerve; Movement at ankle (talocrural) joint, assists; movement:Plantar flexion; muscle:Fibularis brevis; filter.region:Lower Body; filter.joint:Ankle; filter.action:Flexion
+
+Deep fibular nerve; Movement at ankle (talocrural) joint; movement:Dorsiflexion; muscle:Tibialis anterior; filter.region:Lower Body; filter.joint:Ankle; filter.action:Flexion
+
+Deep fibular nerve; Movement at ankle (talocrural) joint; movement:Dorsiflexion; muscle:Extensor hallucis longus; filter.region:Lower Body; filter.joint:Ankle; filter.action:Flexion
+
+Deep fibular nerve; Movement at ankle (talocrural) joint; movement:Dorsiflexion; muscle:Extensor digitorum longus; filter.region:Lower Body; filter.joint:Ankle; filter.action:Flexion
+
+Deep fibular nerve; Movement at ankle (talocrural) joint; movement:Dorsiflexion; muscle:Fibularis tertius; filter.region:Lower Body; filter.joint:Ankle; filter.action:Flexion
+
+
+
+Deep fibular nerve; Tarsal movement; movement:Inversion; muscle:Tibialis anterior; filter.region:Lower Body; filter.joint:Ankle; filter.action:Other
+
+Tibial nerve; Tarsal movement; movement:Inversion; muscle:Tibialis posterior; filter.region:Lower Body; filter.joint:Ankle; filter.action:Other
+
+Superficial fibular nerve; Tarsal movement; movement:Eversion; muscle:Fibularis longus; filter.region:Lower Body; filter.joint:Ankle; filter.action:Other
+
+Superficial fibular nerve; Tarsal movement; movement:Eversion; muscle:Fibularis brevis; filter.region:Lower Body; filter.joint:Ankle; filter.action:Other
+
+Deep fibular nerve; Tarsal movement; movement:Eversion; muscle:Fibularis tertius; filter.region:Lower Body; filter.joint:Ankle; filter.action:Other
+
+
+
+Tibial nerve; Movement of foot, extrinsic muscle, big toe; movement:Great toe flexion; muscle:Flexor hallucis longus; filter.region:Lower Body; filter.joint:Foot; filter.action:Flexion
+
+Medial plantar nerve; Movement of foot, intrinsic muscle, big toe; movement:Great toe flexion; muscle:Flexor hallucis brevis; filter.region:Lower Body; filter.joint:Foot; filter.action:Flexion
+
+Tibial nerve; Movement of foot, extrinsic muscle, digits 2-5; movement:Toes 2–5 flexion; muscle:Flexor digitorum longus; filter.region:Lower Body; filter.joint:Foot; filter.action:Flexion
+
+Medial plantar nerve; Movement of foot, intrinsic muscle, digits 2-5; movement:Toes 2–5 flexion; muscle:Flexor digitorum brevis; filter.region:Lower Body; filter.joint:Foot; filter.action:Flexion
+
+Lateral plantar nerve; Movement of foot, intrinsic muscle, digits 2-5, assists FDL; movement:Toes 2–5 flexion; muscle:Quadratus plantae; filter.region:Lower Body; filter.joint:Foot; filter.action:Flexion
+
+Lateral plantar nerve; Movement of foot, intrinsic muscle, 5th digit only; movement:5th toe flexion; muscle:Flexor digiti minimi brevis; filter.region:Lower Body; filter.joint:Foot; filter.action:Flexion
+
+Medial plantar nerve (1st) and lateral plantar nerves (2nd, 3rd, 4th); Movement of foot, intrinsic muscle, proximal phalanx; movement:Toe MTP joint flexion; muscle:Lumbricals; filter.region:Lower Body; filter.joint:Foot; filter.action:Flexion
+
+Lateral plantar nerve; Movement of foot, intrinsic muscle, MTP joints; movement:Toe MTP joint flexion; muscle:Dorsal interossei; filter.region:Lower Body; filter.joint:Foot; filter.action:Flexion
+
+Lateral plantar nerve; Movement of foot, intrinsic muscle, MTP joints; movement:Toe MTP joint flexion; muscle:Plantar interossei; filter.region:Lower Body; filter.joint:Foot; filter.action:Flexion
+
+Deep fibular nerve; Movement of foot, extrinsic muscle, big toe; movement:Great toe extension; muscle:Extensor hallucis longus; filter.region:Lower Body; filter.joint:Foot; filter.action:Extension
+
+Deep fibular nerve; Movement of foot, intrinsic muscle, big toe; movement:Great toe extension; muscle:Extensor hallucis brevis; filter.region:Lower Body; filter.joint:Foot; filter.action:Extension
+
+Deep fibular nerve; Movement of foot, extrinsic muscle, digits 2-5; movement:Toes 2–5 extension; muscle:Extensor digitorum longus; filter.region:Lower Body; filter.joint:Foot; filter.action:Extension
+
+Deep fibular nerve; Movement of foot, intrinsic muscle, digits 2-5; movement:Toes 2–5 extension; muscle:Extensor digitorum brevis; filter.region:Lower Body; filter.joint:Foot; filter.action:Extension
+
+Medial plantar nerve (1st) and lateral plantar nerves (2nd, 3rd, 4th); Movement of foot, intrinsic muscle, middle and distal phalanges; movement:Toe IP joint extension; muscle:Lumbricals; filter.region:Lower Body; filter.joint:Foot; filter.action:Extension
+
+Medial plantar nerve; Movement of foot, intrinsic muscle, big toe; movement:Great toe abduction; muscle:Abductor hallucis; filter.region:Lower Body; filter.joint:Foot; filter.action:Abduction
+
+Lateral plantar nerve; Movement of foot, intrinsic muscle, 5th digit only; movement:5th toe abduction; muscle:Abductor digiti minimi; filter.region:Lower Body; filter.joint:Foot; filter.action:Abduction
+
+Lateral plantar nerve; Movement of foot, intrinsic muscle, digits 2-5; movement:Toes 2–5 abduction; muscle:Dorsal interossei; filter.region:Lower Body; filter.joint:Foot; filter.action:Abduction
+
+Lateral plantar nerve; Movement of foot, intrinsic muscle, big toe; movement:Great toe adduction; muscle:Adductor hallucis; filter.region:Lower Body; filter.joint:Foot; filter.action:Adduction
+
+Lateral plantar nerve; Movement of foot, intrinsic muscle, digits 2-5; movement:Toes 2–5 adduction; muscle:Plantar interossei; filter.region:Lower Body; filter.joint:Foot; filter.action:Adduction

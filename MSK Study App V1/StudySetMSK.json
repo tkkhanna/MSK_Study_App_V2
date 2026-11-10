@@ -1,0 +1,21 @@
+{
+  "id": "msk",
+  "name": "MSK Study Set",
+  "subjects": [
+    {
+      "id": "muscle",
+      "name": "Muscle",
+      "file": "MuscleInfo.txt"
+    },
+    {
+      "id": "neuron",
+      "name": "Neuron",
+      "file": "NeuronInfo.txt"
+    },
+    {
+      "id": "movement",
+      "name": "Movement",
+      "file": "MovementInfo.txt"
+    }
+  ]
+}
